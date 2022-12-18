@@ -1,4 +1,9 @@
-### Hi there 👋
+## hi there 👋
+### name = *elise* 
+### pronouns = *she/they*
+
+💬 Ask me about ... rollerskating
+
 
 <!--
 **elise-35173/elise-35173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
